@@ -21,6 +21,7 @@ public class Solution_1_2 {
 			}
 		}
 		System.out.println(count);
+		sc.close();
 	}
 
 }
